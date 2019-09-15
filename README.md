@@ -55,18 +55,20 @@ Montei esse guia para delinear o conteúdo da aula
 - [ ] Template docx
 - [ ] Template tex
 
-    ---
-    output: 
-      pdf_document:
-        latex_engine: xelatex
-        includes:
-          in_header: header-latex.tex
-    documentclass: "article"
-    geometry: "top=2cm, bottom=4.5cm, left=2.5cm, right=2.5cm"
-    classoption: "12pt,letterpaper"
-    mainfont: "DejaVu Sans"
-    curso: "Meu curso"
-    ---
+```yaml
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    includes:
+      in_header: header-latex.tex
+documentclass: "article"
+geometry: "top=2cm, bottom=4.5cm, left=2.5cm, right=2.5cm"
+classoption: "12pt,letterpaper"
+mainfont: "DejaVu Sans"
+curso: "Meu curso"
+---
+```
 
 - [ ] Pacote `{pagedown}`
 - [ ] Arquivos separados
