@@ -1,6 +1,14 @@
 # 201909-amostra-listas
 
-Workshop sobre listas de exercícios ministrado no IME-USP, dia 18/09/2019.
+Material do workshop sobre listas de exercícios ministrado no IME-USP, dia 18/09/2019.
+
+**O material completo será criado durante a aula e adicionado após a aula**
+
+## Slides
+
+[jtrecenti.github.com/slides/amostra2019](https://jtrecenti.github.com/slides/amostra2019)
+
+-----------------------------
 
 # Agenda
 
@@ -9,6 +17,8 @@ Workshop sobre listas de exercícios ministrado no IME-USP, dia 18/09/2019.
 - Dicas avançadas
 - Trabalhar em grupo usando Git/Github
 - Extras
+
+-----------------------------
 
 # Guia
 
