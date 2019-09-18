@@ -6,6 +6,8 @@ Material do workshop sobre listas de exercícios ministrado no IME-USP, dia 18/0
 
 ## Slides
 
+https://github.com/curso-r/201909-amostra-listas
+
 [jtrecenti.github.com/slides/amostra2019](https://jtrecenti.github.com/slides/amostra2019)
 
 -----------------------------
@@ -35,7 +37,7 @@ Montei esse guia para delinear o conteúdo da aula
 
 - [ ] RMarkdown Básico
     - Markdown básico
-    - Outputs: Documento HTML, Documento PDF, Documemnto Word
+    - Outputs: Documento HTML, Documento PDF, Documento Word
     - `{pagedown}`
     - Atalhos
         - Ctrl+Alt+I

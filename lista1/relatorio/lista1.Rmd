@@ -1,0 +1,25 @@
+---
+title: "lista1"
+output: 
+  pdf_document:
+    keep_tex: true
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r}
+1+1
+```
+
+```{r}
+
+```
+
+```{r setup}
+plot(cars)
+```
